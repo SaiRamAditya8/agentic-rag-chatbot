@@ -9,7 +9,7 @@ from src.agents_src.crew import qa_crew
 # }
 
 input_data = {
-    "user_query": "Explain about Evolution and Ecosystem",
+    "user_query": "Explain difference between Attention and knowledge distillation in the field of Machine Learning",
     "chat_history": {}
 }
 

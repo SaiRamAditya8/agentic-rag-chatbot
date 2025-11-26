@@ -208,3 +208,7 @@ __marimo__/
 
 # vector store dir
 doc_vector_store/
+
+#macOS specific
+.DS_Store
+*.DS_Store
