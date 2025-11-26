@@ -207,4 +207,4 @@ marimo/_lsp/
 __marimo__/
 
 # vector store dir
-docs_dir/
+doc_vector_store/
